@@ -1,3 +1,4 @@
+// https://exercism.org/tracks/javascript/exercises/factory-sensors
 // @ts-check
 
 export class ArgumentError extends Error {}
